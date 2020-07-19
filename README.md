@@ -1,5 +1,5 @@
 # whgscraper
 scraping a website looking for apartments and organizing them in a pandas DataFrame. 
 - TODO: 
--- scrape through pagination
--- automate script running frequently
+  - scrape through pagination
+  - automate script running frequently
